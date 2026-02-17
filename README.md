@@ -24,6 +24,8 @@ Java Gold certified engineer focusing on backend development and Electrical Engi
 ---
 
 ### 🕒 Weekly Coding Activity (Powered by WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ---
