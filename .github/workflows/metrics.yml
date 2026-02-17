@@ -1,0 +1,22 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # 毎日更新
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }} # さっき作ったGH_TOKENを使います
+          user: Ubichinon
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bogota # ボゴタ時間に設定
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_habits: yes # 活動時間帯の可視化
+          plugin_achievements: yes # トロフィー（実績）の表示
