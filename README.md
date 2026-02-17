@@ -15,7 +15,7 @@ Currently based in **Bogota, Colombia**.
 ---
 
 ### 📊 GitHub Statistics
-![Metrics](https://github.com/Ubichinon/Ubichinon/blob/master/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 ---
 
