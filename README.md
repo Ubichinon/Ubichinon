@@ -1,7 +1,15 @@
 ## Hi there, I'm Kei 👋 🇨🇴 ➡️ 🇯🇵
 
-Currently based in **Bogota, Colombia**, building up my tech stack for the big return to **Japan in 2027**.
-Java Gold certified engineer focusing on backend development and Electrical Engineering.
+Currently based in **Bogota, Colombia**.
+---
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bogota-CE1126?style=for-the-badge&logo=world&logoColor=white" />
+</p
 
 ---
 
@@ -79,16 +87,5 @@ CSS                      1 repo              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
  Last Updated on 17/02/2026 15:04:39 UTC
 <!--END_SECTION:waka-->
----
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bogota-CE1126?style=for-the-badge&logo=world&logoColor=white" />
-</p>
-
 ---
 *"Wealth is what you learn, not what you hoard."*
