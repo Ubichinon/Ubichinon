@@ -14,19 +14,6 @@ Currently based in **Bogota, Colombia**.
 
 ---
 
-### 📊 GitHub Statistics
-![Metrics](./github-metrics.svg)
-
----
-
-### 📊 Summary Cards
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ubichinon/Ubichinon/main/profile-summary-card-output/radical/0-profile-details.svg" height="150px" />
-  <img src="https://raw.githubusercontent.com/Ubichinon/Ubichinon/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="150px" />
-</p>
-
----
-
 ### 🕒 Weekly Coding Activity (Powered by WakaTime)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
