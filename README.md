@@ -1,6 +1,7 @@
 ## Hi there, I'm Kei 👋 🇨🇴 ➡️ 🇯🇵
 
 Currently based in **Bogota, Colombia**.
+
 ---
 ### 🛠 Tech Stack
 <p align="left">
