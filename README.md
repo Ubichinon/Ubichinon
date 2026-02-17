@@ -16,8 +16,8 @@ Currently based in **Bogota, Colombia**.
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ubichinon&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Kei's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubichinon&layout=compact&theme=radical&hide_progress=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ubichinon&show_icons=true&theme=radical&rank_icon=github" alt="Kei's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubichinon&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
