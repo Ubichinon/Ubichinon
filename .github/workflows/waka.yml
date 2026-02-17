@@ -1,11 +1,14 @@
 name: Waka Readme
 
 on:
-  # 24時間ごとに自動更新（UTC時間なので日本時間の朝方に更新されます）
   schedule:
+    # 毎日UTC 0:00（日本時間 午前9時）に実行
     - cron: '0 0 * * *'
-  # 手動でいつでも実行できるようにする設定
   workflow_dispatch:
+
+# ここが重要：書き込み権限を明示的に付与
+permissions:
+  contents: write
 
 jobs:
   update-readme:
