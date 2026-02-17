@@ -26,10 +26,5 @@ Java Gold certified engineer focusing on backend development and Electrical Engi
 ### 🕒 Weekly Coding Activity (Powered by WakaTime)
 ---
 
-### 🎯 2027 Project Roadmap
-- [ ] **Electrical Certification** (Currently studying hard!)
-- [ ] **Full-stack Mastery** (Java Gold & Modern Architectures)
-- [ ] **The Great Japan Return** (with NC750X & Rebel 250/500)
-
 ---
 *"Wealth is what you learn, not what you hoard."*
