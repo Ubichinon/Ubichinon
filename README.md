@@ -5,20 +5,10 @@ Java Gold certified engineer focusing on backend development and Electrical Engi
 
 ---
 
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electrical_Engineering-FFD700?style=for-the-badge&logo=target&logoColor=black" />
-</p>
-
----
-
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ubichinon&show_icons=true&theme=radical&count_private=true" alt="Kei's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubichinon&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ubichinon&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Kei's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubichinon&layout=compact&theme=radical&hide_progress=false" alt="Most Used Languages" />
 </p>
 
 ---
@@ -90,6 +80,15 @@ CSS                      1 repo              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
  Last Updated on 17/02/2026 15:04:39 UTC
 <!--END_SECTION:waka-->
 ---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bogota-駐在員-CE1126?style=for-the-badge&logo=world&logoColor=white" />
+</p>
 
 ---
 *"Wealth is what you learn, not what you hoard."*
